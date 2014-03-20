@@ -34,7 +34,7 @@ If you need to share repositories with members of the core development team, you
 
 OpenEyes follows the [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) model for git branches. As such, the stable release branch is always on master. For bleeding edge development, use the develop branch.
 
-Setup and installation documentation is available from the [documentation section of the website](http://www.openeyes.org.uk/documentation.html)
+Setup and installation documentation is available from the [Quick Start section of the wiki](https://github.com/openeyes/OpenEyes/wiki/Quick-Start)
 
 We are beginning to evolve some documentation for developers on [our github wiki](https://github.com/openeyes/OpenEyes/wiki) including [coding guidelines](https://github.com/openeyes/OpenEyes/wiki/Coding-Guidelines), [working with the core team](https://github.com/openeyes/OpenEyes/wiki/Working-With-The-Core-Team) and our [Event type module development guide](https://github.com/openeyes/OpenEyes/wiki/Event-Type-Module-Development-Guide).
 
